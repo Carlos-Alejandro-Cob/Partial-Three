@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\NewC#Proyect\practica4\bin\Debug\net9.0\practica4.exe
+C:\Users\MSI\Desktop\NewC#Proyect\practica4\bin\Debug\net9.0\practica4.deps.json
+C:\Users\MSI\Desktop\NewC#Proyect\practica4\bin\Debug\net9.0\practica4.runtimeconfig.json
+C:\Users\MSI\Desktop\NewC#Proyect\practica4\bin\Debug\net9.0\practica4.dll
+C:\Users\MSI\Desktop\NewC#Proyect\practica4\bin\Debug\net9.0\practica4.pdb
+C:\Users\MSI\Desktop\NewC#Proyect\practica4\obj\Debug\net9.0\practica4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\NewC#Proyect\practica4\obj\Debug\net9.0\practica4.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\NewC#Proyect\practica4\obj\Debug\net9.0\practica4.AssemblyInfo.cs
+C:\Users\MSI\Desktop\NewC#Proyect\practica4\obj\Debug\net9.0\practica4.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\NewC#Proyect\practica4\obj\Debug\net9.0\practica4.dll
+C:\Users\MSI\Desktop\NewC#Proyect\practica4\obj\Debug\net9.0\refint\practica4.dll
+C:\Users\MSI\Desktop\NewC#Proyect\practica4\obj\Debug\net9.0\practica4.pdb
+C:\Users\MSI\Desktop\NewC#Proyect\practica4\obj\Debug\net9.0\practica4.genruntimeconfig.cache
+C:\Users\MSI\Desktop\NewC#Proyect\practica4\obj\Debug\net9.0\ref\practica4.dll

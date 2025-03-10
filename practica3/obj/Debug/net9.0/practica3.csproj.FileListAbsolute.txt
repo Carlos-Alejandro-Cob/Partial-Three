@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\NewC#Proyect\practica3\bin\Debug\net9.0\practica3.exe
+C:\Users\MSI\Desktop\NewC#Proyect\practica3\bin\Debug\net9.0\practica3.deps.json
+C:\Users\MSI\Desktop\NewC#Proyect\practica3\bin\Debug\net9.0\practica3.runtimeconfig.json
+C:\Users\MSI\Desktop\NewC#Proyect\practica3\bin\Debug\net9.0\practica3.dll
+C:\Users\MSI\Desktop\NewC#Proyect\practica3\bin\Debug\net9.0\practica3.pdb
+C:\Users\MSI\Desktop\NewC#Proyect\practica3\obj\Debug\net9.0\practica3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\NewC#Proyect\practica3\obj\Debug\net9.0\practica3.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\NewC#Proyect\practica3\obj\Debug\net9.0\practica3.AssemblyInfo.cs
+C:\Users\MSI\Desktop\NewC#Proyect\practica3\obj\Debug\net9.0\practica3.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\NewC#Proyect\practica3\obj\Debug\net9.0\practica3.dll
+C:\Users\MSI\Desktop\NewC#Proyect\practica3\obj\Debug\net9.0\refint\practica3.dll
+C:\Users\MSI\Desktop\NewC#Proyect\practica3\obj\Debug\net9.0\practica3.pdb
+C:\Users\MSI\Desktop\NewC#Proyect\practica3\obj\Debug\net9.0\practica3.genruntimeconfig.cache
+C:\Users\MSI\Desktop\NewC#Proyect\practica3\obj\Debug\net9.0\ref\practica3.dll
