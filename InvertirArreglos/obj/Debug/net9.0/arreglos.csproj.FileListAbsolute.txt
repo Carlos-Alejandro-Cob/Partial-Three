@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\NewC#Proyect\arreglos\bin\Debug\net9.0\arreglos.exe
+C:\Users\MSI\Desktop\NewC#Proyect\arreglos\bin\Debug\net9.0\arreglos.deps.json
+C:\Users\MSI\Desktop\NewC#Proyect\arreglos\bin\Debug\net9.0\arreglos.runtimeconfig.json
+C:\Users\MSI\Desktop\NewC#Proyect\arreglos\bin\Debug\net9.0\arreglos.dll
+C:\Users\MSI\Desktop\NewC#Proyect\arreglos\bin\Debug\net9.0\arreglos.pdb
+C:\Users\MSI\Desktop\NewC#Proyect\arreglos\obj\Debug\net9.0\arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\NewC#Proyect\arreglos\obj\Debug\net9.0\arreglos.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\NewC#Proyect\arreglos\obj\Debug\net9.0\arreglos.AssemblyInfo.cs
+C:\Users\MSI\Desktop\NewC#Proyect\arreglos\obj\Debug\net9.0\arreglos.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\NewC#Proyect\arreglos\obj\Debug\net9.0\arreglos.dll
+C:\Users\MSI\Desktop\NewC#Proyect\arreglos\obj\Debug\net9.0\refint\arreglos.dll
+C:\Users\MSI\Desktop\NewC#Proyect\arreglos\obj\Debug\net9.0\arreglos.pdb
+C:\Users\MSI\Desktop\NewC#Proyect\arreglos\obj\Debug\net9.0\arreglos.genruntimeconfig.cache
+C:\Users\MSI\Desktop\NewC#Proyect\arreglos\obj\Debug\net9.0\ref\arreglos.dll
