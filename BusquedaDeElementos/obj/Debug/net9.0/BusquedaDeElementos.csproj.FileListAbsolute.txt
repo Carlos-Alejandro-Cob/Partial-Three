@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\NewC#Proyect\BusquedaDeElementos\obj\Debug\net9.0\BusquedaDeElementos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\NewC#Proyect\BusquedaDeElementos\obj\Debug\net9.0\BusquedaDeElementos.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\NewC#Proyect\BusquedaDeElementos\obj\Debug\net9.0\BusquedaDeElementos.AssemblyInfo.cs
+C:\Users\MSI\Desktop\NewC#Proyect\BusquedaDeElementos\obj\Debug\net9.0\BusquedaDeElementos.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\NewC#Proyect\BusquedaDeElementos\bin\Debug\net9.0\BusquedaDeElementos.exe
+C:\Users\MSI\Desktop\NewC#Proyect\BusquedaDeElementos\bin\Debug\net9.0\BusquedaDeElementos.deps.json
+C:\Users\MSI\Desktop\NewC#Proyect\BusquedaDeElementos\bin\Debug\net9.0\BusquedaDeElementos.runtimeconfig.json
+C:\Users\MSI\Desktop\NewC#Proyect\BusquedaDeElementos\bin\Debug\net9.0\BusquedaDeElementos.dll
+C:\Users\MSI\Desktop\NewC#Proyect\BusquedaDeElementos\bin\Debug\net9.0\BusquedaDeElementos.pdb
+C:\Users\MSI\Desktop\NewC#Proyect\BusquedaDeElementos\obj\Debug\net9.0\BusquedaDeElementos.dll
+C:\Users\MSI\Desktop\NewC#Proyect\BusquedaDeElementos\obj\Debug\net9.0\refint\BusquedaDeElementos.dll
+C:\Users\MSI\Desktop\NewC#Proyect\BusquedaDeElementos\obj\Debug\net9.0\BusquedaDeElementos.pdb
+C:\Users\MSI\Desktop\NewC#Proyect\BusquedaDeElementos\obj\Debug\net9.0\BusquedaDeElementos.genruntimeconfig.cache
+C:\Users\MSI\Desktop\NewC#Proyect\BusquedaDeElementos\obj\Debug\net9.0\ref\BusquedaDeElementos.dll
