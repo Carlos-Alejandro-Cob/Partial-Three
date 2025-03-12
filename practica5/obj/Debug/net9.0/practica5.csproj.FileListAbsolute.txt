@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\NewC#Proyect\practica5\bin\Debug\net9.0\practica5.exe
+C:\Users\MSI\Desktop\NewC#Proyect\practica5\bin\Debug\net9.0\practica5.deps.json
+C:\Users\MSI\Desktop\NewC#Proyect\practica5\bin\Debug\net9.0\practica5.runtimeconfig.json
+C:\Users\MSI\Desktop\NewC#Proyect\practica5\bin\Debug\net9.0\practica5.dll
+C:\Users\MSI\Desktop\NewC#Proyect\practica5\bin\Debug\net9.0\practica5.pdb
+C:\Users\MSI\Desktop\NewC#Proyect\practica5\obj\Debug\net9.0\practica5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\NewC#Proyect\practica5\obj\Debug\net9.0\practica5.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\NewC#Proyect\practica5\obj\Debug\net9.0\practica5.AssemblyInfo.cs
+C:\Users\MSI\Desktop\NewC#Proyect\practica5\obj\Debug\net9.0\practica5.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\NewC#Proyect\practica5\obj\Debug\net9.0\practica5.dll
+C:\Users\MSI\Desktop\NewC#Proyect\practica5\obj\Debug\net9.0\refint\practica5.dll
+C:\Users\MSI\Desktop\NewC#Proyect\practica5\obj\Debug\net9.0\practica5.pdb
+C:\Users\MSI\Desktop\NewC#Proyect\practica5\obj\Debug\net9.0\practica5.genruntimeconfig.cache
+C:\Users\MSI\Desktop\NewC#Proyect\practica5\obj\Debug\net9.0\ref\practica5.dll

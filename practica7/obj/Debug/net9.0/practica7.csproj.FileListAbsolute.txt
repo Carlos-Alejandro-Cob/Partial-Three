@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\NewC#Proyect\practica7\obj\Debug\net9.0\practica7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\NewC#Proyect\practica7\obj\Debug\net9.0\practica7.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\NewC#Proyect\practica7\obj\Debug\net9.0\practica7.AssemblyInfo.cs
+C:\Users\MSI\Desktop\NewC#Proyect\practica7\obj\Debug\net9.0\practica7.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\NewC#Proyect\practica7\bin\Debug\net9.0\practica7.exe
+C:\Users\MSI\Desktop\NewC#Proyect\practica7\bin\Debug\net9.0\practica7.deps.json
+C:\Users\MSI\Desktop\NewC#Proyect\practica7\bin\Debug\net9.0\practica7.runtimeconfig.json
+C:\Users\MSI\Desktop\NewC#Proyect\practica7\bin\Debug\net9.0\practica7.dll
+C:\Users\MSI\Desktop\NewC#Proyect\practica7\bin\Debug\net9.0\practica7.pdb
+C:\Users\MSI\Desktop\NewC#Proyect\practica7\obj\Debug\net9.0\practica7.dll
+C:\Users\MSI\Desktop\NewC#Proyect\practica7\obj\Debug\net9.0\refint\practica7.dll
+C:\Users\MSI\Desktop\NewC#Proyect\practica7\obj\Debug\net9.0\practica7.pdb
+C:\Users\MSI\Desktop\NewC#Proyect\practica7\obj\Debug\net9.0\practica7.genruntimeconfig.cache
+C:\Users\MSI\Desktop\NewC#Proyect\practica7\obj\Debug\net9.0\ref\practica7.dll
