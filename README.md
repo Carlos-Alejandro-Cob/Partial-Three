@@ -121,81 +121,20 @@ public class Trabajo
 
 Este ejemplo muestra cómo serializar y deserializar objetos en **C#** utilizando `System.Text.Json` para trabajar con archivos **JSON**.
 
-## 1. Definición de Clases  
+1. Definicion de clases
+- Persona y Trabajo son clases que representan la estructura de los datos JSON.
 
-- `Persona` y `Trabajo` son clases que representan la estructura de los datos JSON.
+2. Escribir datos en un archivo JSON
+- Utilizamos JsonSerializer.Serialize() para convertir un objeto en una cadena JSON.
+- WriteIndented = true formatea el JSON con indentación para mejorar la legibilidad.
+- File.WriteAllText() escribe la cadena JSON en un archivo.
 
-## 2. Escribir Datos en un Archivo JSON  
+3. Leer datos desde un archivo JSON
+- File.ReadAllText() lee el contenido del archivo JSON.
+- JsonSerializer.Deserialize<Persona>() convierte la cadena JSON en un objeto de tipo Persona.
 
-- Se utiliza `JsonSerializer.Serialize()` para convertir un objeto en una cadena JSON.  
-- `WriteIndented = true` permite formatear el JSON con indentación para mejorar la legibilidad.  
-- `File.WriteAllText()` escribe la cadena JSON en un archivo.  
+Este ejemplo muestra cómo trabajar con archivos JSON en C# utilizando la serialización y deserialización de objetos. Si tienes alguna pregunta adicional o necesitas más detalles, no dudes en preguntar.
 
-## 3. Leer Datos desde un Archivo JSON  
-
-- `File.ReadAllText()` lee el contenido del archivo JSON.  
-- `JsonSerializer.Deserialize<Persona>()` convierte la cadena JSON en un objeto de tipo `Persona`.  
-
-## Código de Ejemplo  
-
-```csharp
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Text.Json;
-
-public class Program
-{
-    public static void Main()
-    {
-        // Datos a escribir en el archivo JSON
-        var datos = new Persona
-        {
-            Nombre = "Juan",
-            Edad = 30,
-            Ciudad = "Ciudad de México",
-            Intereses = new List<string> { "música", "deportes", "lectura" },
-            Trabajo = new Trabajo
-            {
-                Puesto = "Ingeniero",
-                Empresa = "TechCorp"
-            }
-        };
-
-        // Escribir datos en un archivo JSON
-        string jsonString = JsonSerializer.Serialize(datos, new JsonSerializerOptions
-        {
-            WriteIndented = true
-        });
-        File.WriteAllText("datos.json", jsonString);
-
-        // Leer datos desde un archivo JSON
-        string jsonLeido = File.ReadAllText("datos.json");
-        Persona datosLeidos = JsonSerializer.Deserialize<Persona>(jsonLeido);
-
-        // Mostrar los datos leídos
-        Console.WriteLine(datosLeidos.Nombre);
-        Console.WriteLine(datosLeidos.Edad);
-        Console.WriteLine(datosLeidos.Ciudad);
-        Console.WriteLine(string.Join(", ", datosLeidos.Intereses));
-        Console.WriteLine($"{datosLeidos.Trabajo.Puesto} en {datosLeidos.Trabajo.Empresa}");
-    }
-}
-
-public class Persona
-{
-    public string Nombre { get; set; }
-    public int Edad { get; set; }
-    public string Ciudad { get; set; }
-    public List<string> Intereses { get; set; }
-    public Trabajo Trabajo { get; set; }
-}
-
-public class Trabajo
-{
-    public string Puesto { get; set; }
-    public string Empresa { get; set; }
-}
 
 ---
 
