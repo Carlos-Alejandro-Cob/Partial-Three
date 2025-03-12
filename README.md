@@ -8,11 +8,11 @@
 Los archivos JSON (JavaScript Object Notation) son un formato de texto ligero utilizado para intercambiar datos. La estructura de un archivo JSON es bastante sencilla y se basa en dos estructuras principales:
 
 1. Objetos: Colecciones de pares clave-valor. Un objeto JSON está rodeado por llaves {} y contiene pares de clave y valor separados por dos puntos :. Los pares están separados por comas ,.
-{
-|"nombre": |"Juan",|
- | "edad":| 30,|
-  |"ciudad": |"Ciudad de México"|
-}
+- {
+ "nombre": "Juan", 
+ "edad": 30, 
+ "ciudad": "Ciudad de México" 
+- }
 
 2. Arreglos: Listas ordenadas de valores. Un arreglo JSON está rodeado por corchetes [] y contiene valores separados por comas ,.
 [
