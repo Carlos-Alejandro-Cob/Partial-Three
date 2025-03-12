@@ -53,7 +53,7 @@ Un archivo JSON puede combinar objetos y arreglos para representar datos más co
 
 Los archivos de texto (.txt) son uno de los formatos más simples y ampliamente utilizados para almacenar información. A diferencia de los archivos JSON, que tienen una estructura específica, los archivos de texto pueden contener cualquier tipo de texto sin formato.  
 
-## Características de los Archivos de Texto
+# Características de los Archivos de Texto
 
 1. **Texto Plano**: Los archivos de texto contienen texto sin formato, lo que significa que no tienen estilos de fuente, colores, ni otros formatos especiales.
 2. **Codificación**: Generalmente, los archivos de texto se guardan en codificaciones como ASCII o UTF-8, que son compatibles con la mayoría de los sistemas y editores de texto.
@@ -61,7 +61,7 @@ Los archivos de texto (.txt) son uno de los formatos más simples y ampliamente 
 4. **Compatibilidad**: Son compatibles con casi cualquier sistema operativo y editor de texto, lo que los hace muy portátiles.
 5. **Uso Común**: Se utilizan para tomar notas, escribir documentos simples, guardar configuraciones y almacenar datos que no requieren formato especial.
 
-## Ejemplo de Contenido de un Archivo de Texto
+# Ejemplo de Contenido de un Archivo de Texto
 ```texto
 Este es un ejemplo de archivo de texto.
 Puede contener varias líneas de texto.
@@ -71,18 +71,21 @@ Los archivos de texto son muy simples y fáciles de usar.
 ```
 
 
-## Ventajas
+# Ventajas
 
 - **Simplicidad**: Fáciles de crear y editar.
 - **Portabilidad**: Pueden ser abiertos en cualquier editor de texto.
 - **Tamaño Pequeño**: Ocupan poco espacio en comparación con formatos más complejos.
 
-## Desventajas
+# Desventajas
 
 - **Falta de Formato**: No pueden contener formato de texto como negritas, cursivas, etc.
 - **Limitaciones de Estructura**: No son adecuados para datos estructurados complejos.
 
+
 Los archivos de texto son ideales para situaciones donde se necesita almacenar información de manera simple y sin complicaciones.
+
+
 ---
 # Archivos CSV (.csv)
 
