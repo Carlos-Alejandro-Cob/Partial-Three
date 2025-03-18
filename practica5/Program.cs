@@ -28,7 +28,7 @@ class Program
         }
 
         string[] nombresExistentes = LeerNombres();
-        HashSet<string> nombresUnicos = new HashSet<string>();
+        HashSet<string> nombresUnicos = new HashSet<string>();//se crea un conjunto para almacenar los nombres únicos
         if (nombresExistentes != null)
         {
             nombresUnicos.UnionWith(nombresExistentes);
