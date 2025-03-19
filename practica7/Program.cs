@@ -13,6 +13,12 @@ using System.Text.Json;
 using System.Collections.Generic;
 using System.Linq;
 
+using System;
+using System.IO;
+using System.Text.Json;
+using System.Collections.Generic;
+using System.Linq;
+
 namespace practica7
 {
     class Program
@@ -29,11 +35,12 @@ namespace practica7
                 gestor.AgregarTexto(texto);
                 gestor.GuardarTexto();
 
+                // Contar palabras solo del texto nuevo
+                gestor.ContarPalabras(texto);
+
                 Console.WriteLine("Desea ingresar otro texto? (s/n)");
                 opcion = Console.ReadLine();
             } while (opcion.ToLower() == "s");
-
-            gestor.ContarPalabras();
 
             Console.WriteLine("Desea imprimir el texto guardado? (s/n)");
             string opcion2 = Console.ReadLine();
@@ -110,27 +117,22 @@ namespace practica7
             textos.Add(texto);
         }
 
-public void ContarPalabras()
-{
-    if (textos.Any())
-    {
-        int totalPalabras = 0;
-        foreach (var texto in textos)
+        public void ContarPalabras(Texto texto)
         {
-            // Dividir el texto en palabras usando espacios y caracteres especiales como delimitadores
-            string[] palabras = texto.Contenido.Split(new char[] { ' ', '.', ',', '!', '?', ':', ';', '-', '\n', '\t' }, StringSplitOptions.RemoveEmptyEntries);
+            if (texto != null)
+            {
+                // Dividir el texto en palabras usando espacios y caracteres especiales como delimitadores
+                string[] palabras = texto.Contenido.Split(new char[] { ' ', '.', ',', '!', '?', ':', ';', '-', '\n', '\t' }, StringSplitOptions.RemoveEmptyEntries);
 
-            // Filtrar palabras vacías o nulas
-            totalPalabras += palabras.Count(p => !string.IsNullOrWhiteSpace(p));
+                // Filtrar palabras vacías o nulas
+                int totalPalabras = palabras.Count(p => !string.IsNullOrWhiteSpace(p));
+                Console.WriteLine($"El número de palabras en el nuevo texto es: {totalPalabras}");
+            }
+            else
+            {
+                Console.WriteLine("No hay texto nuevo para contar.");
+            }
         }
-        Console.WriteLine($"El número total de palabras es: {totalPalabras}");
-    }
-    else
-    {
-        Console.WriteLine("No hay textos guardados.");
-    }
-}
-
 
         public void MostrarTexto()
         {
