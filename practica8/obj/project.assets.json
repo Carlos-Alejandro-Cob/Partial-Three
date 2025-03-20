@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI\\Desktop\\NewC#Proyect\\practica8\\practica8.csproj",
+      "projectUniqueName": "C:\\Users\\MSI\\Desktop\\Repo\\Partial-Three\\practica8\\practica8.csproj",
       "projectName": "practica8",
-      "projectPath": "C:\\Users\\MSI\\Desktop\\NewC#Proyect\\practica8\\practica8.csproj",
+      "projectPath": "C:\\Users\\MSI\\Desktop\\Repo\\Partial-Three\\practica8\\practica8.csproj",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI\\Desktop\\NewC#Proyect\\practica8\\obj\\",
+      "outputPath": "C:\\Users\\MSI\\Desktop\\Repo\\Partial-Three\\practica8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",

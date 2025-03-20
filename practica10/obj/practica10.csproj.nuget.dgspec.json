@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MSI\\Desktop\\NewC#Proyect\\practica10\\practica10.csproj": {}
+    "C:\\Users\\MSI\\Desktop\\Repo\\Partial-Three\\practica10\\practica10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MSI\\Desktop\\NewC#Proyect\\practica10\\practica10.csproj": {
+    "C:\\Users\\MSI\\Desktop\\Repo\\Partial-Three\\practica10\\practica10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MSI\\Desktop\\NewC#Proyect\\practica10\\practica10.csproj",
+        "projectUniqueName": "C:\\Users\\MSI\\Desktop\\Repo\\Partial-Three\\practica10\\practica10.csproj",
         "projectName": "practica10",
-        "projectPath": "C:\\Users\\MSI\\Desktop\\NewC#Proyect\\practica10\\practica10.csproj",
+        "projectPath": "C:\\Users\\MSI\\Desktop\\Repo\\Partial-Three\\practica10\\practica10.csproj",
         "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MSI\\Desktop\\NewC#Proyect\\practica10\\obj\\",
+        "outputPath": "C:\\Users\\MSI\\Desktop\\Repo\\Partial-Three\\practica10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
