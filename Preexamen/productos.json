@@ -1,0 +1,14 @@
+[
+  {
+    "Codigo": "1234",
+    "Nombre": "SODAS",
+    "PrecioUnitario": 18,
+    "CantidadStock": 56
+  },
+  {
+    "Codigo": "4321",
+    "Nombre": "PAPAS",
+    "PrecioUnitario": 21,
+    "CantidadStock": 3000000
+  }
+]

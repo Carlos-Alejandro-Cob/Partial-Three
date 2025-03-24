@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Repo\Partial-Three\Preexamen\bin\Debug\net9.0\Preexamen.exe
+C:\Users\MSI\Desktop\Repo\Partial-Three\Preexamen\bin\Debug\net9.0\Preexamen.deps.json
+C:\Users\MSI\Desktop\Repo\Partial-Three\Preexamen\bin\Debug\net9.0\Preexamen.runtimeconfig.json
+C:\Users\MSI\Desktop\Repo\Partial-Three\Preexamen\bin\Debug\net9.0\Preexamen.dll
+C:\Users\MSI\Desktop\Repo\Partial-Three\Preexamen\bin\Debug\net9.0\Preexamen.pdb
+C:\Users\MSI\Desktop\Repo\Partial-Three\Preexamen\obj\Debug\net9.0\Preexamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Repo\Partial-Three\Preexamen\obj\Debug\net9.0\Preexamen.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Repo\Partial-Three\Preexamen\obj\Debug\net9.0\Preexamen.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Repo\Partial-Three\Preexamen\obj\Debug\net9.0\Preexamen.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Repo\Partial-Three\Preexamen\obj\Debug\net9.0\Preexamen.sourcelink.json
+C:\Users\MSI\Desktop\Repo\Partial-Three\Preexamen\obj\Debug\net9.0\Preexamen.dll
+C:\Users\MSI\Desktop\Repo\Partial-Three\Preexamen\obj\Debug\net9.0\refint\Preexamen.dll
+C:\Users\MSI\Desktop\Repo\Partial-Three\Preexamen\obj\Debug\net9.0\Preexamen.pdb
+C:\Users\MSI\Desktop\Repo\Partial-Three\Preexamen\obj\Debug\net9.0\Preexamen.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Repo\Partial-Three\Preexamen\obj\Debug\net9.0\ref\Preexamen.dll
