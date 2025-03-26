@@ -1,0 +1,14 @@
+[
+  {
+    "Codigo": "1234",
+    "Nombre": "leche",
+    "PrecioUnitario": 28,
+    "CantidadStock": 80
+  },
+  {
+    "Codigo": "4321",
+    "Nombre": "cafe",
+    "PrecioUnitario": 25,
+    "CantidadStock": 70
+  }
+]

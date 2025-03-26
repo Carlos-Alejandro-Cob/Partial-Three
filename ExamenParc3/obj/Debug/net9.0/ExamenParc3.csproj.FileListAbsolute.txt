@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Repo\Partial-Three\ExamenParc3\bin\Debug\net9.0\ExamenParc3.exe
+C:\Users\MSI\Desktop\Repo\Partial-Three\ExamenParc3\bin\Debug\net9.0\ExamenParc3.deps.json
+C:\Users\MSI\Desktop\Repo\Partial-Three\ExamenParc3\bin\Debug\net9.0\ExamenParc3.runtimeconfig.json
+C:\Users\MSI\Desktop\Repo\Partial-Three\ExamenParc3\bin\Debug\net9.0\ExamenParc3.dll
+C:\Users\MSI\Desktop\Repo\Partial-Three\ExamenParc3\bin\Debug\net9.0\ExamenParc3.pdb
+C:\Users\MSI\Desktop\Repo\Partial-Three\ExamenParc3\obj\Debug\net9.0\ExamenParc3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Repo\Partial-Three\ExamenParc3\obj\Debug\net9.0\ExamenParc3.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Repo\Partial-Three\ExamenParc3\obj\Debug\net9.0\ExamenParc3.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Repo\Partial-Three\ExamenParc3\obj\Debug\net9.0\ExamenParc3.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Repo\Partial-Three\ExamenParc3\obj\Debug\net9.0\ExamenParc3.sourcelink.json
+C:\Users\MSI\Desktop\Repo\Partial-Three\ExamenParc3\obj\Debug\net9.0\ExamenParc3.dll
+C:\Users\MSI\Desktop\Repo\Partial-Three\ExamenParc3\obj\Debug\net9.0\refint\ExamenParc3.dll
+C:\Users\MSI\Desktop\Repo\Partial-Three\ExamenParc3\obj\Debug\net9.0\ExamenParc3.pdb
+C:\Users\MSI\Desktop\Repo\Partial-Three\ExamenParc3\obj\Debug\net9.0\ExamenParc3.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Repo\Partial-Three\ExamenParc3\obj\Debug\net9.0\ref\ExamenParc3.dll
